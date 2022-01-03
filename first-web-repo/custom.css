@@ -34,11 +34,12 @@ header{
     display: inline;
     
     
+    
 }
 
 .nav ul li a{
     color: rgb(251, 255, 24);
-    padding: 8gitpx 20px;
+    padding: 8px 20px;
     letter-spacing: 2px;
     font-size: 13px;
     font-weight: bold;
